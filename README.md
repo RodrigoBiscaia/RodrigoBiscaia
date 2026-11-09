@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="760" />
+
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Matheus+Biscaia;Backend+Developer;Node.js+%7C+Java+%7C+Spring+Boot;APIs+REST+%7C+SQL+%7C+Docker;Construindo+solucoes+eficientes+e+seguras" />
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=matheusBiscaia&color=blueviolet&style=for-the-badge&label=VISITAS+AO+PERFIL" />
 
 </div>
 
@@ -15,12 +10,11 @@
 
 ### <p align="center"><strong>✦ Sobre mim ✦</strong></p>
 
-- 💻 Sou **Matheus Biscaia**, Desenvolvedor Backend com experiência prática na construção de aplicações e APIs REST.
-- 🏢 Atuo como **Desenvolvedor Backend na Kodexa Labs**.
+- 💻 Sou **Rodrigo Biscaia**, Desenvolvedor Backend com experiência prática na construção de aplicações e APIs REST.
 - 🎓 Estudante de **Engenharia de Software na UCSAL**.
 - 🚀 Trabalho com tecnologias como **Node.js, Express, Java, Spring Boot e SQL**.
 - 🔐 Tenho experiência prática com **autenticação JWT, bcrypt, CRUD e integração de funcionalidades backend**.
-- 🗄️ Utilizo bancos de dados como **PostgreSQL, MySQL e SQLite**.
+- 🗄️ Utilizo bancos de dados como **PostgreSQL, MySQL e SQLite**.df
 - 🛠️ Tenho conhecimentos em **Git, Docker, Postman e arquitetura de aplicações**.
 - 🌱 Busco evoluir continuamente em **arquitetura de software, microsserviços, segurança e escalabilidade**.
 
@@ -29,7 +23,7 @@
 ---
 
 ### <p align="center"><strong>✦ Minhas Tecnologias ✦</strong></p>
-
+f
 #### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,cs,dotnet" />
@@ -73,13 +67,6 @@ API REST desenvolvida para gerenciamento de produtos e movimentações de estoqu
 - Organização do código em rotas, serviços e repositórios.
 - Testes de endpoints e validação das funcionalidades.
 
-### 💬 PlayRoomy — Backend
-Implementação de funcionalidade de comunicação em tempo real.
-
-- Desenvolvimento do indicador de digitação (*typing indicator*).
-- Controle de eventos de início e fim de digitação.
-- Testes de comunicação utilizando Postman.
-- Versionamento das alterações utilizando Git.
 
 ### ☕ Microserviço de Usuários e Perfis
 API REST para gerenciamento de usuários e permissões.
@@ -93,17 +80,6 @@ API REST para gerenciamento de usuários e permissões.
 
 🔗 [Ver repositório](https://github.com/matheusBiscaia/microservico-usuarios-perfis)
 
-### 🦷 Sistema de Consultório Odontológico
-Aplicação para agendamento e gerenciamento de consultas.
-
-**Tecnologias:** C# e .NET MAUI.
-
-- Gerenciamento de consultas.
-- Calendário de agendamentos.
-- Painel administrativo.
-- Organização de dados do consultório.
-
-🔗 [Ver repositório](https://github.com/matheusBiscaia/app-consultorio-odontologico)
 
 <br>
 
