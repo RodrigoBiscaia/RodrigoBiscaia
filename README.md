@@ -78,7 +78,7 @@ API REST para gerenciamento de usuários e permissões.
 - Regras de ativação e inativação de usuários.
 - Integração com Service Discovery utilizando Eureka.
 
-🔗 [Ver repositório](https://github.com/matheusBiscaia/microservico-usuarios-perfis)
+
 
 
 <br>
