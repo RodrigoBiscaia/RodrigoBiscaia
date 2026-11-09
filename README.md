@@ -23,7 +23,7 @@
 ---
 
 ### <p align="center"><strong>✦ Minhas Tecnologias ✦</strong></p>
-f
+
 #### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,cs,dotnet" />
